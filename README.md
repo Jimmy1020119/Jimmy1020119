@@ -1,12 +1,12 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Jang%20Young%20Choi&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Entrepreneurial%20PM%20%26%20AI%20Engineer%20·%20Builder%20of%20Pertineo&descAlignY=56&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1A1B26,50:7AA2F7,100:BB9AF7&height=240&section=header&text=Jang%20Young%20Choi&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Entrepreneurial%20PM%20%26%20AI%20Engineer%20·%20Builder%20of%20Pertineo&descAlignY=56&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=700&color=7AA2F7&center=true&vCenter=true&width=720&lines=Hi+👋+I'm+Jimmy+%E2%80%94+CS+%40+Kyung+Hee+University;Building+Pertineo+%E2%80%94+AI+Career+Consultant+(1000%2B+users);Pitched+in+Silicon+Valley%2C+Tokyo%2C+CES+2026;Diffusion+Models+%C2%B7+Generative+AI+%C2%B7+Agentic+Systems;Always+shipping%2C+always+learning+🚀)](https://git.io/typing-svg)
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/💼_Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/jang-young-choi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/jang-young-choi/)
 
 </div>
 
@@ -40,7 +40,7 @@ languages:
 <div align="center">
 
 <a href="https://pertineo.khu.ac.kr/">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=90&section=header&text=Pertineo&fontSize=40&fontColor=ffffff&fontAlignY=50&desc=AI%20Career%20Consulting%20Platform%20·%201000%2B%20Users%20·%20🏆%20KHU%20Valley%20Grand%20Prize&descAlignY=85&descSize=14" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:12141C,100:7AA2F7&height=90&section=header&text=Pertineo&fontSize=40&fontColor=ffffff&fontAlignY=50&desc=AI%20Career%20Consulting%20Platform%20·%201000%2B%20Users%20·%20🏆%20KHU%20Valley%20Grand%20Prize&descAlignY=85&descSize=14" />
 </a>
 
 <br>
@@ -141,16 +141,16 @@ languages:
 
 ---
 
-### 🤝 Let's Connect
+### 🤝 Connect
 
 <div align="center">
 
-> 💼 **The full story lives on LinkedIn** — that's where I share what I'm building, learning, and pitching across Seoul · Silicon Valley · Tokyo.
+**Feel free to connect !!**
 
 <br>
 
 <a href="https://www.linkedin.com/in/jang-young-choi/">
-  <img src="https://img.shields.io/badge/Connect_with_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="42"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="42"/>
 </a>
 
 <br><br>
@@ -167,6 +167,6 @@ languages:
 
 ![profile views](https://komarev.com/ghpvc/?username=Jimmy1020119&color=7AA2F7&style=flat-square&label=Profile+Views)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:BB9AF7,50:7AA2F7,100:1A1B26&height=120&section=footer)
 
 </div>
