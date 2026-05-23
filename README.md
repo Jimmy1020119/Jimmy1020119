@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1A1B26,50:7AA2F7,100:BB9AF7&height=240&section=header&text=Jang%20Young%20Choi&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Entrepreneurial%20PM%20%26%20AI%20Engineer%20·%20Builder%20of%20Pertineo&descAlignY=56&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1A1B26,50:7AA2F7,100:BB9AF7&height=240&section=header&text=Jang%20Young%20Choi&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Entrepreneurial%20PM%20and%20AI%20Engineer%20·%20Builder%20of%20Pertineo&descAlignY=56&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=700&color=7AA2F7&center=true&vCenter=true&width=720&lines=Hi+👋+I'm+Jimmy+%E2%80%94+CS+%40+Kyung+Hee+University;Building+Pertineo+%E2%80%94+AI+Career+Consultant+(1000%2B+users);Pitched+in+Silicon+Valley%2C+Tokyo%2C+CES+2026;Diffusion+Models+%C2%B7+Generative+AI+%C2%B7+Agentic+Systems;Always+shipping%2C+always+learning+🚀)](https://git.io/typing-svg)
 
